@@ -143,8 +143,8 @@ section h2 {
 }
 
 .card-icon {
-  font-size: 2rem;
   margin-bottom: 16px;
+  color: var(--accent);
 }
 
 .card h3 {
